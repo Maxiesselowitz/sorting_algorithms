@@ -7,7 +7,7 @@ void insertion_sort_deck_value(deck_node_t **deck);
 void sort_deck(deck_node_t **deck);
 
 /**
- * _strcmp - Compares two strings.
+ * _strcmp - A function that compares two strings.
  * @s1: The first string to be compared.
  * @s2: The second string to be compared.
  *
